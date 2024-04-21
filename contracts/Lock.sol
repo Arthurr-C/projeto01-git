@@ -11,6 +11,6 @@ contract Lock {
     bool private teste3;
     uint public numeros;
 
-    //estecódigo está zerado e é usado apenas de exemplo//
+    
     }
-}
+
