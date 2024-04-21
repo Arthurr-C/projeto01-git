@@ -7,7 +7,8 @@ pragma solidity ^0.8.24;
 contract Lock {
     uint public unlockTime;
     address payable public owner;
-    
+    uint104 public teste2;
+    bool private teste3;
     uint public numeros;
 
     event Withdrawal(uint amount, uint when);
