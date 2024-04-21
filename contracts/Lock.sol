@@ -7,7 +7,9 @@ pragma solidity ^0.8.24;
 contract Lock {
     uint public unlockTime;
     address payable public owner;
-    string public arthur;
+    uint104 public teste2;
+    bool private teste3;
+    uint public numeros;
 
     //estecódigo está zerado e é usado apenas de exemplo//
     }
