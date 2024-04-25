@@ -10,6 +10,7 @@ contract Lock {
     uint104 public teste2;
     bool private teste3;
     uint public numeros;
+    address payable cliente;
 
     
     }
